@@ -1,0 +1,12 @@
+Source: ros-jazzy-leo-example-line-follower
+Section: misc
+Priority: optional
+Maintainer: "Fictionlab" <support@fictionlab.pl>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-lint-cmake <!nocheck>, ros-jazzy-ament-cmake-python, ros-jazzy-ament-cmake-xmllint <!nocheck>, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-generate-parameter-library, ros-jazzy-ros-workspace
+Homepage: https://index.ros.org/p/leo_example_line_follower/#jazzy
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-leo-example-line-follower
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-numpy, python3-opencv, ros-jazzy-cv-bridge, ros-jazzy-generate-parameter-library, ros-jazzy-geometry-msgs, ros-jazzy-rclpy, ros-jazzy-sensor-msgs, ros-jazzy-ros-workspace
+Description: A line track follower example for Leo Rover.
