@@ -1,0 +1,15 @@
+ros-jazzy-leo-examples (1.1.0-1noble) noble; urgency=high
+
+
+
+ -- "Fictionlab" <support@fictionlab.pl>  Mon, 29 Jun 2026 00:00:00 -0000
+
+ros-jazzy-leo-examples (1.0.0-1noble) noble; urgency=high
+
+  * Add leo_examples metapackage (#4 <https://github.com/LeoRover/leo_examples-ros2/issues/4>)
+    Co-authored-by: Błażej Sowa <mailto:bsowa123@gmail.com>
+  * Contributors: Aleksander Szymański
+
+ -- "Fictionlab" <support@fictionlab.pl>  Tue, 02 Dec 2025 00:00:00 -0000
+
+
