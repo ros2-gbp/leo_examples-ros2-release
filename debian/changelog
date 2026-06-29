@@ -1,9 +1,0 @@
-ros-jazzy-leo-example-follow-aruco-marker (1.0.0-1noble) noble; urgency=high
-
-  * chore: Add ci workflow (#5 <https://github.com/LeoRover/leo_examples-ros2/issues/5>)
-  * Follow marker example (#2 <https://github.com/LeoRover/leo_examples-ros2/issues/2>)
-  * Contributors: Aleksander Szymański, Błażej Sowa
-
- -- Fictionlab <support@fictionlab.pl>  Tue, 02 Dec 2025 00:00:00 -0000
-
-
