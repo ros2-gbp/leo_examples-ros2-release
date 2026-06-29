@@ -1,0 +1,15 @@
+ros-jazzy-leo-example-object-detection (1.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- "Fictionlab" <support@fictionlab.pl>  Mon, 29 Jun 2026 00:00:00 -0000
+
+ros-jazzy-leo-example-object-detection (1.0.0-1bookworm) bookworm; urgency=high
+
+  * chore: Add ci workflow (#5 <https://github.com/LeoRover/leo_examples-ros2/issues/5>)
+  * Object detection example (#1 <https://github.com/LeoRover/leo_examples-ros2/issues/1>)
+  * Contributors: Aleksander Szymański, Błażej Sowa
+
+ -- "Fictionlab" <support@fictionlab.pl>  Tue, 02 Dec 2025 00:00:00 -0000
+
+
